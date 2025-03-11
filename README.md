@@ -3,4 +3,5 @@ Projects from the freeCodeCamp's course "[Scientific Computing with Python](http
 
 ## Projects
 [Learn String Manipulation by Building a Cipher](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/1_vigenere.py)  
-[Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/2_luhn.py)
+[Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/2_luhn.py)  
+[Learn Lambda Functions by Building an Expense Tracker](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/3_expense_tracker.py)
