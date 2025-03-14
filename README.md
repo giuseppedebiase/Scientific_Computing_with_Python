@@ -9,3 +9,6 @@ Projects from the freeCodeCamp's course "[Scientific Computing with Python](http
 [Learn the Bisection Method by Finding the Square Root of a Number](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/5_square_root.py)
 
 ### Certification Project: Build an Arithmetic Formatter Project
+```
+placeholder
+```
