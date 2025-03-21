@@ -27,11 +27,15 @@ def shortest_path(graph, start, target = ''):
             #the minimum distance between starting node and neighboring node get updated
             if distance + distances[current] < distances[node]:
                 distances[node] = distance + distances[current]
-                #If a shorter distance than previously known to node is found path[node] gets updated
+                #Subsitutes the shortest path to node with a new, shorter, path (if found)
                 if paths[node] and paths[node][-1] == node:
                     paths[node] = paths[current][:]
                 else:
+                    #The shortest path that leads to the neighboring node of current passes by current
+                    #E.g. if current = D, neighbour node = C and path to D is [A, D] -> 
+                    #the path that leads to the C will include [A, D] (C will be added to path[C] with line 39)
                     paths[node].extend(paths[current])
+                #Adds the neighbouring node of current to the path that leads to node (which is neighbouring node)
                 paths[node].append(node)
         unvisited.remove(current)
     
