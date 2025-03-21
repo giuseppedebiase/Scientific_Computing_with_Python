@@ -17,4 +17,5 @@ Python script that receives a list of strings which are arithmetic problems (max
 ```
 The function can optionally take a second argument. When the second argument is set to `True`, the answers are also displayed.
 
-[Learn Regular Expressions by Building a Password Generator](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/7_password_generator.py)
+[Learn Regular Expressions by Building a Password Generator](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/7_password_generator.py)  
+[Learn Algorithm Design by Building a Shortest Path Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/8_shortest_path.py)
