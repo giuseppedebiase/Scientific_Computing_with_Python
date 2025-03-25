@@ -11,9 +11,9 @@ Projects from the freeCodeCamp's course "[Scientific Computing with Python](http
 ### [Certification Project: Build an Arithmetic Formatter Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/6_cert_arithmetic%20formatter.py)
 Python script that receives a list of strings which are arithmetic problems (max 5, additions or subtractions), and returns the problems arranged vertically and side-by-side like this:
 ```
-  235
-+  52
------
+  235      3801
++  52    -    2
+-----    ------
 ```
 The function can optionally take a second argument. When the second argument is set to `True`, the answers are also displayed.
 
