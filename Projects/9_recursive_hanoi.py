@@ -20,3 +20,14 @@ def move(n, source, auxiliary, target):
               
 # initiate call from source A to target C with auxiliary B
 move(NUMBER_OF_DISKS, A, B, C)
+
+'''
+move(2, A, B, C)
+	move(1, A, C, B)
+		move(0, A, B, C)
+		return
+	B, append(A.pop( disco 1))
+    nulla perché n = 0 (2nd recursive call on line 19)
+C. append(A.pop(disco 2)
+C.append(B.pop(disco1)) (2nd recursive call on line 19)
+'''
