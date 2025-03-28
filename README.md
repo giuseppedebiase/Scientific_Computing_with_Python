@@ -20,4 +20,6 @@ The function can optionally take a second argument. When the second argument is 
 [Learn Regular Expressions by Building a Password Generator](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/7_password_generator.py)  
 [Learn Algorithm Design by Building a Shortest Path Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/8_shortest_path.py)  
 [Learn Recursion-by Solving the Tower of Hanoi Puzzle](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/9_recursive_hanoi.py)  
-Learn Data Structures By Building the Merge Sort Algorithm
+[Learn Data Structures By Building the Merge Sort Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/10_merge_sort.py)  
+
+### [Certification Project: Build a Time Calculator Project]  
