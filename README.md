@@ -8,7 +8,7 @@ Projects from the freeCodeCamp's course "[Scientific Computing with Python](http
 [Learn Python List Comprehension by Building a Case Converter Program](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/4_case_converter.py)  
 [Learn the Bisection Method by Finding the Square Root of a Number](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/5_square_root.py)
 
-### [Certification Project: Build an Arithmetic Formatter Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/6_cert_arithmetic%20formatter.py)
+### [Certification Project: Build an Arithmetic Formatter Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/6_cert_arithmetic_formatter.py)
 Python script that receives a list of strings which are arithmetic problems (max 5, additions or subtractions), and returns the problems arranged vertically and side-by-side like this:
 ```
   235      3801
