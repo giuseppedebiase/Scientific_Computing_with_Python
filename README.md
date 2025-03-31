@@ -22,4 +22,7 @@ The function can optionally take a second argument. When the second argument is 
 [Learn Recursion-by Solving the Tower of Hanoi Puzzle](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/9_recursive_hanoi.py)  
 [Learn Data Structures By Building the Merge Sort Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/10_merge_sort.py)  
 
-### [Certification Project: Build a Time Calculator Project]  
+### [Certification Project: Build a Time Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/11_cert_time_calculator.py)  
+Python script that takes a start time in the 12-hour clock format (ending in AM or PM) and a duration time that indicates the number of hours and minutes,
+adds them and return the results. The function can optionally take a day of the week as a third parameter and, when this is given, the output should display
+the day of the week of the result.
