@@ -25,4 +25,6 @@ The function can optionally take a second argument. When the second argument is 
 ### [Certification Project: Build a Time Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/11_cert_time_calculator.py)  
 Python script that takes a start time in the 12-hour clock format (ending in AM or PM) and a duration time that indicates the number of hours and minutes,
 adds them and return the results. The function can optionally take a day of the week as a third parameter and, when this is given, the output should display
-the day of the week of the result.
+the day of the week of the result.  
+
+[Learn Classes and Objects by Building a Sudoku Solver]()
