@@ -27,4 +27,5 @@ Python script that takes a start time in the 12-hour clock format (ending in AM 
 adds them and return the results. The function can optionally take a day of the week as a third parameter and, when this is given, the output should display
 the day of the week of the result.  
 
-[Learn Classes and Objects by Building a Sudoku Solver](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/12_sudoku_solver.py)
+[Learn Classes and Objects by Building a Sudoku Solver](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/12_sudoku_solver.py)  
+[Learn Tree Traversal by Building a Binary Search Tree](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/13_binary_search_tree.py)
