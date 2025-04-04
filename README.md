@@ -4,8 +4,15 @@ Projects from the freeCodeCamp's course "[Scientific Computing with Python](http
 ## Projects  
 Two kinds of projects in this repo:  
 "Learn X by Building Y": This are guided exercises where FCC teaches Python concepts.  
-"Certification Project: Build X": Projects that you must submit to earn the certification. FCC gives you a (almost) blank IDE.  
+"Certification Project: Build X": Projects that you must submit to earn the certification. FCC gives you a (almost) blank IDE. 
 
+List of Certification Projects:  
+  * Arithmetic Formatter Project  
+  * Time Calculator Project
+  * Budget App Project
+  * Polygon Area Calculator Project
+  * Probability Calculator Project
+  
 [Learn String Manipulation by Building a Cipher](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/1_vigenere.py)  
 [Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/2_luhn.py)  
 [Learn Lambda Functions by Building an Expense Tracker](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/3_expense_tracker.py)  
