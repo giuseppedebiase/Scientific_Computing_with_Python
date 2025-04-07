@@ -7,9 +7,9 @@ Two kinds of projects in this repo:
  * "Certification Project: Build X": Projects that you must submit to earn the certification. FCC gives you a (almost) blank IDE. 
 
 List of Certification Projects:  
- * Arithmetic Formatter Project
- * Time Calculator Project
- * Budget App Project
+ * [Arithmetic Formatter Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-an-arithmetic-formatter-project)
+ * [Time Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-time-calculator-project)
+ * [Budget App Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-budget-app-project)
  * Polygon Area Calculator Project
  * Probability Calculator Project
   
