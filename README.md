@@ -39,4 +39,6 @@ adds them and return the results. The function can optionally take a day of the 
 the day of the week of the result.  
 
 [Learn Classes and Objects by Building a Sudoku Solver](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/12_sudoku_solver.py)  
-[Learn Tree Traversal by Building a Binary Search Tree](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/13_binary_search_tree.py)
+[Learn Tree Traversal by Building a Binary Search Tree](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/13_binary_search_tree.py)  
+
+### [Certification Project: Build a Budget App Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/14_cert_budget_app.py)
