@@ -167,3 +167,5 @@ Percentage spent by category
         n     
         g
 ```
+
+[Learn Special Methods by Building a Vector Space](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/15_vector_space.py)
