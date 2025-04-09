@@ -18,7 +18,7 @@ List of Certification Projects:
 [Learn Lambda Functions by Building an Expense Tracker](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/3_expense_tracker.py)  
 [Learn Python List Comprehension by Building a Case Converter Program](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/4_case_converter.py)  
 [Learn the Bisection Method by Finding the Square Root of a Number](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/5_square_root.py)
-
+***
 ### [Certification Project: Build an Arithmetic Formatter Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/6_cert_arithmetic_formatter.py)
 **Assignement**  
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
@@ -66,12 +66,12 @@ If the user supplied the correct format of problems, the conversion you return w
   * Numbers should be right-aligned.
   * There should be four spaces between each problem.
   * There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
-
+***
 [Learn Regular Expressions by Building a Password Generator](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/7_password_generator.py)  
 [Learn Algorithm Design by Building a Shortest Path Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/8_shortest_path.py)  
 [Learn Recursion-by Solving the Tower of Hanoi Puzzle](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/9_recursive_hanoi.py)  
 [Learn Data Structures By Building the Merge Sort Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/10_merge_sort.py)  
-
+***
 ### [Certification Project: Build a Time Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/11_cert_time_calculator.py)  
 **Assignement**  
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
@@ -103,10 +103,10 @@ add_time('6:30 PM', '205:12')
 # Returns: 7:42 AM (9 days later)
 ```
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.  
-
+***
 [Learn Classes and Objects by Building a Sudoku Solver](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/12_sudoku_solver.py)  
 [Learn Tree Traversal by Building a Binary Search Tree](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/13_binary_search_tree.py)  
-
+***
 ### [Certification Project: Build a Budget App Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/14_cert_budget_app.py)  
 **Assignement**  
 Complete the `Category` class. It should be able to instantiate objects based on different budget categories like food, clothing, and entertainment. When objects are created, they are passed in the name of the category. The class should have an instance variable called `ledger` that is a list. The class should also contain the following methods:  
@@ -167,5 +167,5 @@ Percentage spent by category
         n     
         g
 ```
-
+***
 [Learn Special Methods by Building a Vector Space](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/15_vector_space.py)
