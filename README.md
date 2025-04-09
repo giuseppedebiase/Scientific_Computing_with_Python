@@ -69,7 +69,7 @@ If the user supplied the correct format of problems, the conversion you return w
 ***
 [Learn Regular Expressions by Building a Password Generator](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/7_password_generator.py)  
 [Learn Algorithm Design by Building a Shortest Path Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/8_shortest_path.py)  
-[Learn Recursion-by Solving the Tower of Hanoi Puzzle](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/9_recursive_hanoi.py)  
+[Learn Recursion by Solving the Tower of Hanoi Puzzle](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/9_recursive_hanoi.py)  
 [Learn Data Structures By Building the Merge Sort Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/10_merge_sort.py)  
 ***
 ### [Certification Project: Build a Time Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/11_cert_time_calculator.py)  
@@ -168,4 +168,6 @@ Percentage spent by category
         g
 ```
 ***
-[Learn Special Methods by Building a Vector Space](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/15_vector_space.py)
+[Learn Special Methods by Building a Vector Space](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/15_vector_space.py)  
+[Learn Interfaces by Building an Equation Solver](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/16_equation_solver.py)  
+***
