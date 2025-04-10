@@ -10,7 +10,7 @@ List of Certification Projects:
  * [Arithmetic Formatter Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-an-arithmetic-formatter-project)
  * [Time Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-time-calculator-project)
  * [Budget App Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-budget-app-project)
- * [Polygon Area Calculator Project]()
+ * [Polygon Area Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-polygon-area-calculator-project)
  * Probability Calculator Project
   
 [Learn String Manipulation by Building a Cipher](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/1_vigenere.py)  
