@@ -1,5 +1,6 @@
 # Scientific Computing with Python
-Projects from the freeCodeCamp's course "[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)"
+Projects from the freeCodeCamp's course "[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)".
+My certification: https://www.freecodecamp.org/certification/GDebiase/scientific-computing-with-python-v7
 
 ## Projects  
 Two kinds of projects in this repo:  
@@ -11,7 +12,7 @@ List of Certification Projects:
  * [Time Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-time-calculator-project)
  * [Budget App Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-budget-app-project)
  * [Polygon Area Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python#certification-project-build-a-polygon-area-calculator-project)
- * Probability Calculator Project
+ * [Probability Calculator Project](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/README.md#certification-project-build-a-pprobability-calculator-project)
   
 [Learn String Manipulation by Building a Cipher](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/1_vigenere.py)  
 [Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/2_luhn.py)  
