@@ -1,5 +1,5 @@
 # Scientific Computing with Python
-Projects from the freeCodeCamp's course "[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)".
+Projects from the freeCodeCamp's course "[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)".  
 My certification: https://www.freecodecamp.org/certification/GDebiase/scientific-computing-with-python-v7
 
 ## Projects  
