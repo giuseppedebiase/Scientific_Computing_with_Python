@@ -233,3 +233,5 @@ Square(side=4)
 
 8
 ```
+***
+[Learn Encapsulation by Building a Projectile Trajectory Calculator](https://github.com/giuseppedebiase/Scientific_Computing_with_Python/blob/main/Projects/18_projectile_calculator.py)
