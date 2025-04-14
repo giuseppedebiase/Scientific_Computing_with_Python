@@ -27,7 +27,7 @@ class Hat:
         return balls_drawn
 
 def is_subset(dict1, dict2):
-    #Functions that check if dict1 is a subset of dict2
+    #Function that checks if dict1 is a subset of dict2
     #dict1 = expected_balls
     #dict2 = hat_copy_draw_dict
 
